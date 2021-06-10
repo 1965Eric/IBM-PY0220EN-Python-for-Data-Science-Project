@@ -5,4 +5,4 @@ of the Python for Data Science, AI & Development which did not include Web Scrap
 
 ## Intro to Web Scraping Using BeautifulSoup
 
-[Intro to Web Scraping Using BeautifulSoup]
+[Intro to Web Scraping Using BeautifulSoup](https://github.com/1965Eric/IBM-PY0220EN-Python-for-Data-Science-Project/blob/main/WebScraping_Review_Lab.ipynb)
