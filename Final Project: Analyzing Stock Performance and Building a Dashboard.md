@@ -24,4 +24,5 @@ A company's [stock](https://www.investopedia.com/terms/s/stock.asp) share is a p
 
 An investor can buy a stock and sell it later. If the stock price increases, the investor profits, If it decreases, the investor with incur a loss.  Determining the stock price is complex; it depends on the number of outstanding shares, the size of the company's future profits, and much more. People trade stocks throughout the day. The **stock ticker** is a report of the price of a certain stock, updated continuously throughout the trading session by the various **stock** market exchanges. In this lab, you will use the y-finance API to obtain the stock ticker and extract information about the stock. You will then be asked questions about your results.
 
-[Extracting Stock Data Using a Python Library](
+[Extracting Stock Data Using a Python Library](https://github.com/1965Eric/IBM-PY0220EN-Python-for-Data-Science-Project/blob/main/Final_Assignment_Extracting_Stock_Data_Using_a_Python_Library.ipynb)
+
