@@ -26,3 +26,21 @@ An investor can buy a stock and sell it later. If the stock price increases, the
 
 [Extracting Stock Data Using a Python Library](https://github.com/1965Eric/IBM-PY0220EN-Python-for-Data-Science-Project/blob/main/Final_Assignment_Extracting_Stock_Data_Using_a_Python_Library.ipynb)
 
+## Graded Quiz: Extracting Stock Data Using a Python Library
+
+Question 1: From the lab exercise, in which country is AMD (Advanced Micro Devices) situated?
+
+- A. [ ] China
+- B. [X] United States
+- C. [ ] Canada
+
+Question 2: In the lab exercise, to which sector does AMD (Advanced Micro Devices) belong?
+
+- A. [ ] Agriculture
+- B. [X] Technology
+- C. [ ] Electronics
+
+Question 3: In the lab exercise what is the max of the volume of AMD?
+
+```325058400```
+
