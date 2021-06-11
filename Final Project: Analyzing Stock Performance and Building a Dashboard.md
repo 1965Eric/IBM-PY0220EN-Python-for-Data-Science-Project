@@ -72,3 +72,6 @@ Determining the price of a stock is complex; It depends on many things like reve
 
 Tesla and GameStop have become very popular stocks, with GameStop being one of the fastest rising and popular stocks of the year. Both have seen tremendous gains and for different reasons. In the course project, we will extract revenue and stock price data for Tesla and GameStop and build a dashboard to compare the price of the stock vs the revenue. This dashboard will not only provide information about the revenue and stock price but will allow us to see if there is a correlation between the two.
 
+In order to complete the final project you will need to add this notebook to your Watson Studio project. Copy the link below. You will need to paste it in the next lab:
+
+[https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0220EN-SkillsNetwork/labs/project/Final%20Assignment.ipynb](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0220EN-SkillsNetwork/labs/project/Final%20Assignment.ipynb)
