@@ -44,4 +44,25 @@ Question 3: In the lab exercise what is the max of the volume of AMD?
 
 ```325058400```
 
-[Extracting Stock Data Using a Web Scraping](
+[Extracting Stock Data Using Web Scraping](https://github.com/1965Eric/IBM-PY0220EN-Python-for-Data-Science-Project/blob/main/Final_Assignment_Extracting_Stock_Data_Using_Web_Scraping.ipynb)
+
+## Graded Quiz: Extracting Stock Data Using Web Scraping
+
+Question 1: In the lab exercise, what is the content of the title attribute from the object soup?
+
+- A. [X] ```< title > Amazon.com, Inc. (AMZN) Stock Historical Prices & Data - Yahoo Finance < /title >```
+- B. [ ] ```(AMZN) Stock Historical Prices & Data - Yahoo Finance```
+- C. [ ] ```< b class="Hidden" > Yahoo Finance < /b >```
+
+Question 2: In the lab exercise, what are the correct names of the columns of the dataframe?
+
+- A. [X] 'Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Adj Close'
+- B. [ ] 'Date', 'Open', 'High', 'Low'
+- C. [ ] 'Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Adj Close', 'max','min'
+
+Question 3: In the lab exercise What is the ```Open``` of ```Jun 01, 2019``` in the dataframe?
+
+- A. [X] ```1,760.01```
+- B. [ ] ```1,935.20```
+- C. [ ] ```1,672.00```
+
