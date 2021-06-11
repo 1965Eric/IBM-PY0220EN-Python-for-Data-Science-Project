@@ -44,3 +44,4 @@ Question 3: In the lab exercise what is the max of the volume of AMD?
 
 ```325058400```
 
+[Extracting Stock Data Using a Web Scraping](
