@@ -76,5 +76,7 @@ In order to complete the final project you will need to add this notebook to you
 
 [https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0220EN-SkillsNetwork/labs/project/Final%20Assignment.ipynb](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0220EN-SkillsNetwork/labs/project/Final%20Assignment.ipynb)
 
+## Final Assignment in Watson Studio
+
 [Final Assignment](https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/72d75f56-74b1-4c28-b8d6-ade633204da8/view?access_token=eb7486624f862a8b877e5b42d6c9f753c00ced608ace8dc02db88cd38e21f74e)
 
